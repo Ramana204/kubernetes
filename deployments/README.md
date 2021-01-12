@@ -10,7 +10,7 @@ kubectl create -f https://raw.githubusercontent.com/javahometech/kubernetes/mast
 ### Check status of the current deployment
 
 ```
-kubectl rollout status deployment nodeappdeployment
+kubectl rollout status deployment nodeapp
 ```
 
 ### Updating deployment
